@@ -2,7 +2,27 @@
   "data": {
     "value": {"id":"ELEC-900001", "name": "BinaryMan1"},
     "poster": "https://backoffice.infinitemlmsoftware.com/uploads/images/profile_picture/1.jpg",
-    "left": {},
-    "right": {}
+    "left": {
+      "value": {"id":"ELEC-900002", "name": "BinaryMan1"},
+      "poster": "https://backoffice.infinitemlmsoftware.com/uploads/images/profile_picture/2.jpg",
+      "left": {
+        "value": {"id":"ELEC-900003", "name": "BinaryMan1"},
+        "poster": "https://backoffice.infinitemlmsoftware.com/uploads/images/profile_picture/5.jpg",
+        "left": {},
+        "right": {
+          "value": {"id":"ELEC-900005", "name": "BinaryMan1"},
+          "poster": "https://backoffice.infinitemlmsoftware.com/uploads/images/profile_picture/6.jpg",
+          "left": {},
+          "right": {}
+        }
+      },
+      "right": {}
+    },
+    "right": {
+      "value": {"id":"ELEC-900007", "name": "BinaryMan1"},
+      "poster": "https://backoffice.infinitemlmsoftware.com/uploads/images/profile_picture/4.jpg",
+      "left": {},
+      "right": {}
+    }
   }
 }
